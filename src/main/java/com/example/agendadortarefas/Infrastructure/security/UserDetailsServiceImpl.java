@@ -1,11 +1,8 @@
 package com.example.agendadortarefas.Infrastructure.security;
 
 
-
 import com.example.agendadortarefas.Infrastructure.security.client.UsuarioClient;
 import com.example.agendadortarefas.business.dto.UsuarioDTO;
-//import com.javanauta.usuario.infrastructure.entity.Usuario;
-///import com.javanauta.usuario.infrastructure.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
